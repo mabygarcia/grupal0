@@ -1,0 +1,13 @@
+* {
+    background-color: #f5f5dc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: #ff7f50;
+    text-align:center;
+    letter-spacing: 1cm;
+    font-size: 2cm;
+}
+img {
+float: left;
+}
